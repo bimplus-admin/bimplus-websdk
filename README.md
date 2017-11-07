@@ -8,3 +8,20 @@ Quick Links
 
 https://doc.allplan.com/display/bimpluspublic/Bimplus+Web+SDK+Reference
 
+
+npm
+---
+
+There is also npm package available :
+
+https://www.npmjs.com/package/bimplus-websdk
+
+
+Requirements 
+-----------
+
+To use this library you need to have installed these packages :
+
+    jQuery      https://jquery.com/
+    Dexie       http://dexie.org/
+    
