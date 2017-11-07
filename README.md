@@ -22,6 +22,5 @@ Requirements
 
 To use this library you need to have installed these packages :
 
-  * jQuery      [https://jquery.com/](https://jquery.com/)
-  * Dexie       [http://dexie.org/](http://dexie.org/)
+  * jQuery min. ver. 1.12.      [https://jquery.com/](https://jquery.com/)
     
